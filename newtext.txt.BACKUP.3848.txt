@@ -1,8 +1,0 @@
-feature2 
-yeye 
-
-<<<<<<< HEAD
-zmiananamasterze 
-=======
-zmiananabranchu 
->>>>>>> newbranch
