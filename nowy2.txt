@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 zmianalokal -
+=======
+remotezmiana
+>>>>>>> 105eb7689ab6ffd9fd6fac0c9e2e15b29220a987
